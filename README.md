@@ -1,4 +1,3 @@
--  Hi, I’m Guangsheng Liu
 -  I’m interested in computational chemisrty
 -  I’m currently learning theoretical chemistry
 
